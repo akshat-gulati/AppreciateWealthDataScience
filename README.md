@@ -111,4 +111,4 @@ The model achieved the following performance metrics:
 - **AUC-ROC**: 0.98
 
 ## Conclusion
-The Random Forest model performed well in detecting fraudulent transactions, with high precision and accuracy. However, the recall for fraudulent transactions indicates room for improvement, suggesting the need for further tuning or additional features to better capture fraudulent behavior.# AppreciateWealthDataScience
+The Random Forest model performed well in detecting fraudulent transactions, with high precision and accuracy. However, the recall for fraudulent transactions indicates room for improvement, suggesting the need for further tuning or additional features to better capture fraudulent behavior. #AppreciateWealthDataScience
